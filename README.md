@@ -1,4 +1,4 @@
-# Odin_project
+# Odin Project
 
 Esta es una recopilacion de todos los projectos hechos para Odín Project.
 
