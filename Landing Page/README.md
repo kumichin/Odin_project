@@ -4,5 +4,6 @@ Una landing Page como parte curricular de Odin Project. Se podia elejir cualquie
 
 https://ajolote-landing-page.netlify.app/
 
-![Captura1](https://github.com/kumichin/Landing_Page_Odin_Project/assets/39243904/72f7fd93-cdf5-4630-9eaa-4ac6ba570acf)
+![image](https://github.com/user-attachments/assets/941c6f1b-9ad3-4fe2-859e-a9c9d9809594)
+
 
